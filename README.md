@@ -12,6 +12,8 @@ Oyun içerisinde karakteriniz yerden çöpleri toplayıp çöp kutusuna atmak il
 
 Oyunu indirmek için [tıklayınız](https://drive.google.com/drive/folders/1qU0ThpctvO6g8SL4Pw00dPyNnAn5JFPt?usp=drive_link).
 
+![Çevreni Koru.](/cevrekoruyucusu.jpeg)
+
 # Bay Limon Oyunları Tarafından #
 
 
